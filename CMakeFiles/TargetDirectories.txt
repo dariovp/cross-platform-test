@@ -1,0 +1,3 @@
+/home/dario/Projects/practice/clang/test-env/CMakeFiles/rebuild_cache.dir
+/home/dario/Projects/practice/clang/test-env/CMakeFiles/edit_cache.dir
+/home/dario/Projects/practice/clang/test-env/CMakeFiles/app.dir

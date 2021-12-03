@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/app.dir/src/main.o CMakeFiles/app.dir/src/functions_unix.o -o app 
